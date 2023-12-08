@@ -2,8 +2,8 @@
 using System.Text.RegularExpressions;
 class Program {
     static void Main(string[] args) {
-        BaseDay problem = new Day7();
-        string inputFile = @"D:\Libraries\Documents\Code\C#\AdventOfCode2023\input\day07.txt";
+        BaseDay problem = new Day8();
+        string inputFile = @"D:\Libraries\Documents\Code\C#\AdventOfCode2023\input\day08.txt";
 
         if (!File.Exists(path: inputFile)) {
             Console.WriteLine("File not found.");
