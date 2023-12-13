@@ -1,9 +1,7 @@
 ﻿using AdventOfCode2023;
-using System;
 using System.Text.RegularExpressions;
 
-public class Day1 : BaseDay
-{
+public class Day1 : BaseDay {
     public override void Part1(string[] inputLines) { }
     public override void Part2(string[] inputLines) {
         int sum = 0;
